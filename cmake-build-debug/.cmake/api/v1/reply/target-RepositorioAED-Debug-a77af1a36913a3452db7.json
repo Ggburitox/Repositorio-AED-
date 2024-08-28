@@ -110,7 +110,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "cmake-build-debug/ForwardList.h",
+			"path" : "ForwardList.h",
 			"sourceGroupIndex" : 1
 		}
 	],
