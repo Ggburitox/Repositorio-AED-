@@ -1,0 +1,3 @@
+C:/Users/burit/OneDrive/Escritorio/Universidad/2024-2/AED/RepositorioAED/cmake-build-debug/CMakeFiles/RepositorioAED.dir
+C:/Users/burit/OneDrive/Escritorio/Universidad/2024-2/AED/RepositorioAED/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/burit/OneDrive/Escritorio/Universidad/2024-2/AED/RepositorioAED/cmake-build-debug/CMakeFiles/rebuild_cache.dir
