@@ -50,7 +50,6 @@ public:
         }
         return temp->data;
     }
-
     void pop_front(){
         Node<T>* temp = head;
         head = head->next;
@@ -176,5 +175,8 @@ public:
 
 //leetcode
 //Gtest
+
+
+};
 
 #endif //REPOSITORIOAED_FORWARDLIST_H
