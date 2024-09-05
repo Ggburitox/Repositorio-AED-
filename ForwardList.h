@@ -176,7 +176,4 @@ public:
 //leetcode
 //Gtest
 
-
-};
-
 #endif //REPOSITORIOAED_FORWARDLIST_H
